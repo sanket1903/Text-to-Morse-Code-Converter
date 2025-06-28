@@ -128,9 +128,7 @@ Input: .... . .-.. .-.. --- / .-- --- .-. .-.. -..
 Output: HELLO WORLD
 
 
-👨‍💻 Developer
-
-Sanket Parulekar
+👨‍💻 Developer : Sanket Parulekar
 
 📍 Dombivli, India
 
@@ -139,6 +137,4 @@ Sanket Parulekar
 🏆 Python Developer | AI Enthusiast | Hackathon Finalist
 
 
-📜 License
-
-This project is licensed under the MIT License.
+📜 License : This project is licensed under the MIT License.
